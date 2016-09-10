@@ -24,7 +24,7 @@ use SplFileInfo;
  *
  * @author Piotr Buchta
  *
- * @version
+ * @version 1.1
  *
  */
 class QuestioneditController extends AbstractActionController {
